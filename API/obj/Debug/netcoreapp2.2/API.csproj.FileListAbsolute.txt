@@ -1,0 +1,14 @@
+C:\Cursos\NetCoreAngular\api\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Cursos\NetCoreAngular\api\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Cursos\NetCoreAngular\api\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Cursos\NetCoreAngular\api\bin\Debug\netcoreapp2.2\API.dll
+C:\Cursos\NetCoreAngular\api\bin\Debug\netcoreapp2.2\API.pdb
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.dll
+C:\Cursos\NetCoreAngular\api\obj\Debug\netcoreapp2.2\API.pdb
