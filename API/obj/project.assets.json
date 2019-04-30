@@ -12418,11 +12418,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\NetCoreAngular\\api\\API.csproj",
+      "projectUniqueName": "C:\\Cursos\\Angularnetcore\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Cursos\\NetCoreAngular\\api\\API.csproj",
+      "projectPath": "C:\\Cursos\\Angularnetcore\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Italo\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\NetCoreAngular\\api\\obj\\",
+      "outputPath": "C:\\Cursos\\Angularnetcore\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

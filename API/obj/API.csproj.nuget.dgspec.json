@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\NetCoreAngular\\api\\API.csproj": {}
+    "C:\\Cursos\\AngularNetCore\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\NetCoreAngular\\api\\API.csproj": {
+    "C:\\Cursos\\AngularNetCore\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\NetCoreAngular\\api\\API.csproj",
+        "projectUniqueName": "C:\\Cursos\\AngularNetCore\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Cursos\\NetCoreAngular\\api\\API.csproj",
+        "projectPath": "C:\\Cursos\\AngularNetCore\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\NetCoreAngular\\api\\obj\\",
+        "outputPath": "C:\\Cursos\\AngularNetCore\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
